@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ignacio Sanz Portilo -- isanzportillo@gmail.com -- No twitter
 
 # THANKS
 
